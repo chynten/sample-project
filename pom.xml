@@ -16,7 +16,7 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <spring-boot.build-image.imageName>docker.pkg.github.com/chynten/sample-project/sample-project-sb</spring-boot.build-image.imageName>
+        <spring-boot.build-image.imageName>chynten/sample-project</spring-boot.build-image.imageName>
     </properties>
     <dependencies>
         <dependency>
